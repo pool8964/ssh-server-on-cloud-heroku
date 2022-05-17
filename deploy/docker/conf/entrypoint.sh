@@ -89,7 +89,7 @@ tor &
 # Custom SSHd 
 
 # Custom SSHd server in daemon mode
-# cd /tools && python3 paramiko-2104.py &
+cd /tools && python3 paramiko-2104.py &
 
 # Custom SSHd server in no-daemon mode
-cd /tools && python3 paramiko-2104.py
+# cd /tools && python3 paramiko-2104.py
